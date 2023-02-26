@@ -1,0 +1,13 @@
+{
+  "name": "using-bootstrap-styles-with-react-dropdown-tree-select",
+  "version": "1.0.0",
+  "description": "React Dropdown Tree Select component with Bootstrap styles. https://github.com/dowjones/react-dropdown-tree-select",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/l765q6lmrq",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-dropdown-tree-select": "2.0.2"
+  }
+}
